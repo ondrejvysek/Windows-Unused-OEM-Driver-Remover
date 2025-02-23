@@ -1,4 +1,4 @@
-# Windows-Unused-OEM-Driver-Remover
+# Windows Unused OEM Driver Remover
 
 A simple **Python GUI tool** to list and remove **obsolete OEM drivers** from Windows. This tool helps identify unused drivers that could pose **security risks** or **block Windows upgrades**. It provides an interactive **sortable table** with **multi-select functionality** and allows easy removal of drivers using the **Windows pnputil command**.
 
